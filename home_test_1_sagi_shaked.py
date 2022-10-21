@@ -50,7 +50,7 @@ def add_success(row):
 flights_df.apply(add_success, axis=1)
 
 
-flights_df.to_csv('flights_1.csv', index=False)
+flights_df.to_csv('after_q1_flights.csv', index=False)
 ### flight_df is ready
 
 ### flight_df is ready
