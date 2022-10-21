@@ -1,4 +1,4 @@
-andas as pd
+import pandas as pd
 
 global SUCCESS_TODAY
 SUCCESS_TODAY = 0
